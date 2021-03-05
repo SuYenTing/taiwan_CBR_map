@@ -1,6 +1,6 @@
 ## 說明
 
-這是我用Python的plotly套件做的一個互動式地圖，主要依據政府開放資料提供的[鄉鎮市區界線地圖資料](https://data.gov.tw/dataset/7441)和[社會經濟資料服務平台-108年內政大數據資料應用組競賽用資料集_村里](https://segis.moi.gov.tw/STAT/Web/Platform/QueryInterface/STAT_QueryTopProduct.aspx)，來繪製一個2019年台灣的生育率地圖。
+這是我用Python的plotly套件做的一個互動式地圖，主要依據政府開放資料提供的[鄉鎮市區界線地圖資料](https://data.gov.tw/dataset/7441)和[社會經濟資料服務平台-108年內政大數據資料應用組競賽用資料集_村里](https://segis.moi.gov.tw/STAT/Web/Platform/QueryInterface/STAT_QueryTopProduct.aspx)，來繪製一個2019年台灣的出生率地圖。
 
 若要觀看互動式地圖可直接下載專案內的main.html檔案。
 
